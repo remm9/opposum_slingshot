@@ -10,6 +10,7 @@ Opposum Slingshot is an slilngshot game inspired by Ice Age movie and Micro Olym
   - start a game 
   - choose vector
   - choose power
+  - abort game
   
   ### will be given three attempts 
   - first attempt (slow speed)
@@ -25,6 +26,9 @@ Opposum Slingshot is an slilngshot game inspired by Ice Age movie and Micro Olym
   - JavaScript for game logic
   - HTML5 canvas for background scrolling
   - CSS animation for slingshot vector and power controls
+  
+## Bonus 
+  - add splash page with account creation and score board
   
   
  
