@@ -20,13 +20,10 @@ ctx.fill();
 ctx.stroke();
 
 
+// .quadrant {
+//     width: 100px;
+//     height: 100px;
+//     border - radius: 0 100 % 0 0;
+//     background - color: #f00;
+// }
 
-
-// A normal triangle, for reference:
-/*
-ctx.moveTo(0, 100);
-ctx.lineTo(50, 0);
-ctx.lineTo(100, 100);
-ctx.lineTo(0, 100);
-ctx.stroke();
-*/
