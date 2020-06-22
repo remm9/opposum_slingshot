@@ -20,6 +20,10 @@ Opposum Slingshot is an slilngshot game inspired by Ice Age movie and Micro Olym
   ### in addition: as opposum is shot
   - backgroud will move to mimic flying 
   - add audio: "I believe I can fly"
+  
+## Wireframes && File Structure
+  ![IMG_0327](https://user-images.githubusercontent.com/59717705/85239266-ea2c6880-b400-11ea-92b1-6b6923863ddd.JPG)
+
 
 
 ## Technology employed 
