@@ -12,6 +12,8 @@ body {
 
 #canvas {
     border: 1px solid black;
+    width: 800px;
+    height: 430px;
 }
 
 #controls {
@@ -20,7 +22,7 @@ body {
     justify-content: space-between;
     align-items: center;
     border: 1px solid black;
-    width: auto;
+    width: 800px;
     height: 130px;
     margin-top: -1px;
 }
@@ -43,4 +45,5 @@ body {
     -moz-border-radius: 0 100px 0 0;
     -webkit-border-radius: 0 100px 0 0;
     margin-left: 15px;
+    background-color: red;
 }
