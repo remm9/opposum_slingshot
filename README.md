@@ -30,7 +30,7 @@ Opposum Slingshot is an slilngshot game inspired by Ice Age movie and Micro Olym
   - CSS animation for slingshot vector and power controls
   
 ## Implementation Timeline
-  - day 1: seting up js project creating game logic
+  - day 1: seting up js project, creating game logic
   - day 2: working on vector/power indicator
   - day 3: working on trajectory vector logic
   - day 4: canvas background 
