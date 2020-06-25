@@ -6,3 +6,8 @@ const GAME_WIDTH = 800;
 const GAME_HEIGHT = 420;
 
 ctx.clearRect(0, 0, canvas.width, canvas.height)
+
+
+function rotateLine() {
+    document.getElementById('angle').toggleClass('box-rotate');
+};
